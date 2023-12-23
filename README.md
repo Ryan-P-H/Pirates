@@ -10,7 +10,7 @@
 
 ## World
 ### Continents:
-- [Darulia](/World/Continents/Darulia/Darulia)
+- [Darulia](/World/Continents/Darulia/Darulia.md)
 - Haiyandor
 - Nimsk
 

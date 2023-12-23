@@ -1,4 +1,5 @@
 # Ryans world
+[TODO](/TODO.md)
 ### Table of contents
 - World
     - Continents [goto](#continents)

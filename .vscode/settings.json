@@ -9,5 +9,12 @@
     "Nimsk",
     "Nimskar",
     "Orcish"
-  ]
+  ],
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    }
+  }
 }

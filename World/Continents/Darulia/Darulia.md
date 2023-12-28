@@ -4,7 +4,13 @@ Darulia is a large continent on the western side of the [Nimsk-Darulian Sea](/TO
 Darulia is the common name of the entire continent prior to the elvish reclamation of 1523 DR causing both a physical 
 and political split of the continent with the greater souther portion maintaining the name of Darulia and the northern 
 region being named the in the elvish tongue as [Haiyandor](/TODO.md). 
-## [Regions](/World/Continents/Darulia/Regions%20of%20Darulia/RegionsOfDarulia.md)
+## Regions
+Darulia is split into 3 regions:
+- [Regions of Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/RegionsOfDarulia.md):
+  - [Coastal Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/Coastal%20Darulia/CoastalDarulia.md)
+  - [Northern Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/Northern%20Darulia/NorthernDarulia.md)
+  - [Western Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/Western%20Darulia/WesternDarulia.md)
+
 ## Nations
 The [Kingdom of Darulia](/TODO.md) is the major nation that controls the continent of Darulia.  
 The [Orcish tribes](/TODO.md) are a group of individual tribes that control small sporadic pockets of land in of Northern Darulia and Western Darulia. 

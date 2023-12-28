@@ -5,6 +5,7 @@
  - [ ] Darul
  - [ ] Darulian
  - [ ] Darulians
+ - [ ] Dernal's Peninsula
  - [ ] Duke Kristof
  - [ ] Duke Kristof's
  - [ ] Dutchess Tarnton
@@ -16,16 +17,25 @@
  - [ ] High Elves
  - [ ] Keepers of the Vale
  - [ ] Kingdom of Darulia
+ - [ ] Marquis Dernal
+ - [ ] Marquis Soundglade
+ - [ ] Marquis Tarnton
+ - [ ] Marquise Norrun
+ - [ ] Marquise Stradia
  - [ ] Narlin's Stand
  - [ ] Nimsk
  - [ ] Nimsk-Darulian Sea
+ - [ ] Norrun's Delta
  - [ ] Northen Regiment
  - [ ] Orcish tribes
  - [ ] Pirates
  - [ ] shipbuilders guild
  - [ ] Soundglade Family
  - [ ] The Crown's Expeditionary Force
+ - [ ] The Lesser Stand
+ - [ ] The Midlands
  - [ ] The Shield's of Darul
+ - [ ] The South Coast
  - [ ] The Spine
  - [ ] The Treaty of the Vale
  - [ ] Wood Elves

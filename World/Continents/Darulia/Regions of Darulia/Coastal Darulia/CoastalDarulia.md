@@ -18,7 +18,7 @@ Due to its location on the coast, this region has access to all major aquatic tr
 ### Agriculture
 Due to prevalence of fresh water rivers that cut through the region the land is extremely well adapted to farming. Much of the nations grain and meat come from this region along with. Smaller villages that dot the coastline also provide a steady supply of aquatic resources such as fish, pearls, kelp (a national delicacy served in every tavern on the coast).
 ### Industry
-The major industry in the region is the shipbuilding industry. A Darulian made ship is second to none with nobles in lands as afar away as Bulder's Gate purchasing them for there own use. The shipbuilders guild wields immense power in the region second to only the Crown. Out side of shipbuilding many other industries thrive due to easy access to materials by both aquatic and land trade with [Western Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/Western%20Darulia/WesternDarulia.md).
+The major industry in the region is the shipbuilding industry. A Darulian made ship is second to none with nobles in lands as afar away as Baldur's Gate purchasing them for there own use. The shipbuilders guild wields immense power in the region second to only the Crown. Out side of shipbuilding many other industries thrive due to easy access to materials by both aquatic and land trade with [Western Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/Western%20Darulia/WesternDarulia.md).
 ## Underground Economy
 Due to this regions coastal location and as the seat for the capital of [Kingdom of Darulia](/TODO.md) there also exists an underground economy. Some of this underground economy is relatively mundane such as running of counterfeit goods (counterfeit Darulian Kelp exists), drug running, or smuggling people across borders. But the major driver of the underground economy is the export of [Pirates](/TODO.md). 
 ## Regional Government
@@ -26,11 +26,12 @@ As the sole controlling government of the region the [Kingdom of Darulia](/TODO.
 ### Official Government
 [Duke Kristof's](/TODO.md) main job is to coordinate and supervise the marquises who run the states within the region. He also pass on orders from the crown along with making his own rulings over the region. [Dutchess Tarnton](/TODO.md) presides over the city of [Narlin's Stand](/TODO.md) the capital of the [Kingdom of Darulia](/TODO.md) and only answers to the Crown itself.
 ### Nongovernmental Influences
-While the Crown maintains it is the sole power and decision maker in any of its regions and it would be suicidal to suggest otherwise outside of closed doors. There are many other powers that influence [Duke Kristof](/TODO.md) and the marquises. The two most influencial powers (and non coincidentally the richest) are the [shipbuilders guild](/TODO.md) and the [Soundglade Family](/TODO.md). Though theses are the two largest influences on decision making anyone with some gold and their pocket and an officials ear to whisper into can help shape policy at most levels of the government (of course the bigger the decision and higher the level of government the deeper your pocket will need to be)
+While the Crown maintains it is the sole power and decision maker in any of its regions and it would be suicidal to suggest otherwise outside of closed doors. There are many other powers that influence [Duke Kristof](/TODO.md) and the marquises. The two most influential powers (and non coincidentally the richest) are the [shipbuilders guild](/TODO.md) and the [Soundglade Family](/TODO.md). Though theses are the two largest influences on decision making anyone with some gold and their pocket and an officials ear to whisper into can help shape policy at most levels of the government (of course the bigger the decision and higher the level of government the deeper your pocket will need to be)
 
 ## States
 Coastal Darulia is split into 5 states each controlled by a marquis or marquise
-
-
-
-
+- [Norrun's Delta](/TODO.md) [Marquise Norrun](/TODO.md)
+- [The South Coast](/TODO.md) [Marquis Tarnton](/TODO.md)
+- [The Midlands](/TODO.md) [Marquis Soundglade](/TODO.md)
+- [The Lesser Stand](/TODO.md) [Marquise Stradia](/TODO.md)
+- [Dernal's Peninsula](/TODO.md) [Marquis Dernal](/TODO.md)

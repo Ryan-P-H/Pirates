@@ -1,5 +1,5 @@
 # Ryans world
-[TODO](/TODO.md)
+<span style="color:red">TODO</span>
 ### Table of contents
 - World
     - Continents [goto](#continents)

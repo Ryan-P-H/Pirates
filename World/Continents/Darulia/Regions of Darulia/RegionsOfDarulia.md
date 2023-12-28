@@ -1,6 +1,6 @@
 # Regions of Darulia
-[Coastal Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/Coastal%20Darulia/CoastalDarulia.md) 
-[Northern Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/Northern%20Darulia/NorthernDarulia.md) 
+[Coastal Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/Coastal%20Darulia/CoastalDarulia.md)   
+[Northern Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/Northern%20Darulia/NorthernDarulia.md)   
 [Western Darulia](/World/Continents/Darulia/Regions%20of%20Darulia/Western%20Darulia/WesternDarulia.md) 
 
 

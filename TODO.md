@@ -1,24 +1,32 @@
-### TODO
-- [ ] Arch-Magi Narlin
-- [ ] Breaches of the Vail
-- [ ] Darul
-- [ ] Darulian
-- [ ] Darulians
-- [ ] elvish war of separation
-- [ ] Gates to the Vale
-- [ ] Haiyandor
-- [ ] Haiyandor-Darulia Border
-- [ ] High Arbiter Akura
-- [ ] High Elves
-- [ ] Keepers of the Vale
-- [ ] Kingdom of Darulia
-- [ ] Narlin's Stand
-- [ ] Nimsk-Darulian Sea
-- [ ] Northen Regiment
-- [ ] Northern Darulia
-- [ ] Orcish tribes
-- [ ] The Crowns Expeditionary Force
-- [ ] The Shields of Darul
-- [ ] The Spine
-- [ ] The Treaty of the Vale
-- [ ] Wood Elves
+# TODO
+
+ - [ ] Arch-Magi Narlin
+ - [ ] Breaches of the Veil
+ - [ ] Darul
+ - [ ] Darulian
+ - [ ] Darulians
+ - [ ] Duke Kristof
+ - [ ] Duke Kristof's
+ - [ ] Dutchess Tarnton
+ - [ ] elvish war of separation
+ - [ ] Gates to the Vale
+ - [ ] Haiyandor
+ - [ ] Haiyandor-Darulia Border
+ - [ ] High Arbiter Akura
+ - [ ] High Elves
+ - [ ] Keepers of the Vale
+ - [ ] Kingdom of Darulia
+ - [ ] Narlin's Stand
+ - [ ] Nimsk
+ - [ ] Nimsk-Darulian Sea
+ - [ ] Northen Regiment
+ - [ ] Orcish tribes
+ - [ ] Pirates
+ - [ ] shipbuilders guild
+ - [ ] Soundglade Family
+ - [ ] The Crown's Expeditionary Force
+ - [ ] The Shield's of Darul
+ - [ ] The Spine
+ - [ ] The Treaty of the Vale
+ - [ ] Wood Elves
+- [ ] TODO
